@@ -1,0 +1,11 @@
+# Code::Blocks and compiler output
+bin/
+obj/
+*.o
+*.exe
+*.layout
+*.depend
+
+# Patients saved while the program runs
+data/cases.json
+data/cases.json.tmp
